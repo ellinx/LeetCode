@@ -4,7 +4,7 @@
 | --- |:---------|:----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](../../../LC-cpp/blob/master/source/TwoSum.cpp)<br>[Python](../../../LC-python/blob/master/TwoSum.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](../../../LC-cpp/blob/master/source/AddTwoNumbers.cpp)<br>[Java](../../../LC-java/blob/master/src/solutions/AddTwoNumbers.java) |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | <ul><li><a href="https://github.com/ellinx/LC-cpp/blob/master/source/LongestSubstringWithoutRepeatingCharacters.cpp">C++</a></li><li><a href="https://github.com/ellinx/LC-java/blob/master/src/solutions/LongestSubstringWithoutRepeatingCharacters.java">Java</a></li></ul> |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](../../../LC-cpp/blob/master/source/LongestSubstringWithoutRepeatingCharacters.cpp)<br>[Java](../../../LC-java/blob/master/src/solutions/LongestSubstringWithoutRepeatingCharacters.java) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | [Python](../../../LC-python/blob/master/3Sum.py) |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](../../../LC-python/blob/master/ValidateBinarySearchTree.py) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Python](../../../LC-python/blob/master/BinaryTreeLevelOrderTraversal.py) |
