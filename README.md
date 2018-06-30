@@ -1,4 +1,11 @@
 # LeetCode ![Language](https://img.shields.io/badge/language-C++%20%2F%20Java%20%2F%20Python-blue.svg)
+## Intro
+Different programming language implementations are put together within this repository as submodules.<br>
+Here are links to specific implementation.
+* [C++](../../../LC-cpp)
+* [Java](../../../LC-java)
+* [JavaScript](../../../LC-js)
+* [Python](../../../LC-python)
 ## Algorithms
 | No. | Problems | Solutions |
 | --- |:---------|:----------|
