@@ -63,7 +63,7 @@
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](../../../LC-python/blob/master/ArrayPartitionI.java) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Python](../../../LC-python/blob/master/PermutationInString.py) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Python](../../../LC-python/blob/master/ConstructStringFromBinaryTree.py) |
-| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | [Java](../../../LC-java/blob/master/AccountsMerge.java) |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | [Java](../../../LC-java/blob/master/AccountsMerge.java)<br>[Python](../../../LC-python/blob/master/AccountsMerge.py) |
 | 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) | [Python](../../../LC-python/blob/master/LargestPlusSign.py) |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Python](../../../LC-python/blob/master/LetterCasePermutation.py) |
 | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | [Java](../../../LC-java/blob/master/BusRoutes.java) |
