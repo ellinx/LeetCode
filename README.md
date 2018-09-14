@@ -12,12 +12,15 @@
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [C++](../../../LC-cpp/blob/master/source/3SumClosest.cpp) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](../../../LC-cpp/blob/master/source/LetterCombinationOfPhoneNumber.cpp) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/description/) | [C++](../../../LC-cpp/blob/master/source/4Sum.cpp) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](../../../LC-cpp/blob/master/source/ValidParenthesis.cpp) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](../../../LC-cpp/blob/master/source/GenerateParenthesis.cpp) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](../../../LC-cpp/blob/master/source/MergekSortedLists.cpp) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [C++](../../../LC-cpp/blob/master/source/NextPermutation.cpp) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](../../../LC-cpp/blob/master/source/CountAndSay.cpp) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](../../../LC-cpp/blob/master/source/CombinationSum.cpp) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [C++](../../../LC-cpp/blob/master/source/TrappingRainWater.cpp) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [C++](../../../LC-cpp/blob/master/source/MultiplyString.cpp) |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | [C++](../../../LC-cpp/blob/master/source/WildcardMatching.cpp) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/description/) | [C++](../../../LC-cpp/blob/master/source/Permutations.cpp) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](../../../LC-cpp/blob/master/source/RotateImage.cpp) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [C++](../../../LC-cpp/blob/master/source/GroupAnagrams.cpp) |
@@ -28,24 +31,33 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [C++](../../../LC-cpp/blob/master/source/AddBinary.cpp) |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Python](../../../LC-python/blob/master/SimplifyPath.py) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [C++](../../../LC-cpp/blob/master/source/EditDistance.cpp) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C++](../../../LC-cpp/blob/master/source/SortColors.cpp) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [C++](../../../LC-cpp/blob/master/source/MinimumWindowSubstring.cpp) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/description/) | [C++](../../../LC-cpp/blob/master/source/Subsets.cpp) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/description/) | [C++](../../../LC-cpp/blob/master/source/WordSearch.cpp) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/description/) | [C++](../../../LC-cpp/blob/master/source/GrayCode.cpp) |
-| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [C++](../../../LC-python/blob/master/source/DecodeWays.cpp) |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](../../../LC-python/blob/master/source/ReverseLinkedListII.cpp) |
-| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | [C++](../../../LC-python/blob/master/source/RestoreIPAddresses.cpp) |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Python](../../../LC-python/blob/master/ValidateBinarySearchTree.py) |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [C++](../../../LC-cpp/blob/master/source/SubsetsII.cpp) |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [C++](../../../LC-cpp/blob/master/source/DecodeWays.cpp) |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [C++](../../../LC-cpp/blob/master/source/ReverseLinkedListII.cpp) |
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | [C++](../../../LC-cpp/blob/master/source/RestoreIPAddresses.cpp) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [C++](../../../LC-cpp/blob/master/source/ValidateBST.cpp)<br> [Python](../../../LC-python/blob/master/ValidateBinarySearchTree.py) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [C++](../../../LC-cpp/blob/master/source/SameTree.cpp) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](../../../LC-java/blob/master/BinaryTreeLevelOrderTraversal.java)<br>[Python](../../../LC-python/blob/master/BinaryTreeLevelOrderTraversal.py) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java](../../../LC-java/blob/master/src/solutions/BinaryTreeZigzagLevelOrderTraversal.java) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](../../../LC-cpp/blob/master/source/MaxDepthOfBT.cpp) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | [Python](../../../LC-python/blob/master/BalancedBinaryTree.py) |
 | 121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](../../../LC-cpp/blob/master/source/BestTimeToBuySellStock.cpp)<br>[Java](../../../LC-java/blob/master/src/solutions/BestTimeToBuyAndSellStock.java) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | [Java](../../../LC-java/blob/master/src/solutions/BinaryTreeMaximumPathSum.java) |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](../../../LC-cpp/blob/master/source/WordLadder.cpp) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [C++](../../../LC-cpp/blob/master/source/LongestConsecutiveSequence.cpp) |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [C++](../../../LC-cpp/blob/master/source/SurroundedRegions.cpp) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [C++](../../../LC-cpp/blob/master/source/PalindromePartitioning.cpp) |
-| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](../../../LC-cpp/blob/master/source/CloneGraph.cpp)<br>[Python](../../../LC-python/blob/master/CloneGraph.py) |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](../../../LC-cpp/blob/master/source/CloneGraph.cpp)<br> [Python](../../../LC-python/blob/master/CloneGraph.py) |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/description/) | [C++](../../../LC-cpp/blob/master/source/SingleNumberII.cpp) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [C++](../../../LC-cpp/blob/master/source/CopyListWithRandomPointer.cpp) |
-| 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | [Python](../../../LC-python/blob/master/WordBreak.py) |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/description/) | [C++](../../../LC-cpp/blob/master/source/WordBreak.cpp)<br> [Python](../../../LC-python/blob/master/WordBreak.py) |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | [C++](../../../LC-cpp/blob/master/source/ReorderList.cpp) |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [C++](../../../LC-cpp/blob/master/source/SortList.cpp) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [C++](../../../LC-cpp/blob/master/source/EvaluateReversePolishNotation.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [C++](../../../LC-cpp/blob/master/source/ReverseWordsInString.cpp) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [C++](../../../LC-cpp/blob/master/source/MaxProductSubarray.cpp) |
@@ -69,13 +81,19 @@
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [Java](../../../LC-java/blob/master/source/BasicCalculator.java) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [C++](../../../LC-cpp/blob/master/source/InvertBT.cpp) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [C++](../../../LC-cpp/blob/master/source/BasicCalculatorII.cpp) |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | [C++](../../../LC-cpp/blob/master/source/SummaryRanges.cpp) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [C++](../../../LC-cpp/blob/master/source/KthSmallestInBST.cpp) |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [C++](../../../LC-python/blob/master/source/LowestCommonAncestorBT.cpp) |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [C++](../../../LC-python/blob/master/source/DeleteNodeInSLL.cpp) |
-| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [C++](../../../LC-python/blob/master/source/ProductExceptSelf.cpp) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [C++](../../../LC-cpp/blob/master/source/LowestCommonAncestorBT.cpp) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [C++](../../../LC-cpp/blob/master/source/DeleteNodeInSLL.cpp) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [C++](../../../LC-cpp/blob/master/source/ProductExceptSelf.cpp) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [C++](../../../LC-cpp/blob/master/source/SlidingWindowMax.cpp) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Python](../../../LC-python/blob/master/SearchA2DMatrixII.py) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [C++](../../../LC-cpp/blob/master/source/ValidAnagram.cpp) |
 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | [C++](../../../LC-cpp/blob/master/source/MeetingRoom.cpp) |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [C++](../../../LC-cpp/blob/master/source/BinaryTreePaths.cpp) |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/description/) | [C++](../../../LC-cpp/blob/master/source/SingleNumberIII.cpp) |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | [C++](../../../LC-cpp/blob/master/source/UglyNumber.cpp) |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) | [C++](../../../LC-cpp/blob/master/source/UglyNumberII.cpp) |
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) | [Java](../../../LC-java/blob/master/src/solutions/AlienDictionary.java) |
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [Python](../../../LC-python/blob/master/ClosestBinarySearchTreeValue.py) |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) | [Python](../../../LC-python/blob/master/EncodeAndDecodeStrings.py) |
@@ -83,32 +101,40 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C++](../../../LC-cpp/blob/master/source/MoveZeroes.cpp) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [C++](../../../LC-cpp/blob/master/source/FindTheDuplicateNumber.cpp) |
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/description/) | [C++](../../../LC-cpp/blob/master/source/GameOfLife.cpp) |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [C++](../../../LC-cpp/blob/master/source/SerializeAndDeserializeBT.cpp) |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) | [C++](../../../LC-cpp/blob/master/source/BullsAndCows.cpp)<br>[Java](../../../LC-java/blob/master/source/BullsAndCows.java) |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | [C++](../../../LC-cpp/blob/master/source/RemoveInvalidParentheses.cpp) |
 | 306 | [Additive Number](https://leetcode.com/problems/additive-number/description/) | [C++](../../../LC-cpp/blob/master/source/AdditiveNumber.cpp)<br>[Java](../../../LC-java/blob/master/src/solutions/AdditiveNumber.java) |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [C++](../../../LC-cpp/blob/master/source/BestTimeToBuyAndSellStockWithCooldown.cpp) |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/) | [C++](../../../LC-cpp/blob/master/source/MinimumHeightTrees.cpp) |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) | [Java](../../../LC-java/blob/master/src/solutions/BurstBalloons.java) |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) | [C++](../../../LC-cpp/blob/master/source/SuperUglyNumber.cpp) |
 | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [C++](../../../LC-cpp/blob/master/source/MaximumProductOfWordLengths.cpp) |
 | 320 | [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [C++](../../../LC-cpp/blob/master/source/GeneralizedAbbreviation.cpp) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [C++](../../../LC-cpp/blob/master/source/CoinChange.cpp) |
 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [C++](../../../LC-cpp/blob/master/source/NumberOfConnectedComponentsInUndirectedGraph.cpp) |
+| 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/) | [C++](../../../LC-cpp/blob/master/source/WiggleSortII.cpp) |
 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/) | [C++](../../../LC-cpp/blob/master/source/MaxSizeSubarraySumEqualsk.cpp) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | [C++](../../../LC-cpp/blob/master/source/PowerOfThree.cpp) |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [C++](../../../LC-cpp/blob/master/source/LongestIncreasingPathInMatrix.cpp) |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/) | [C++](../../../LC-cpp/blob/master/source/VerifyPreorderSerializationOfBT.cpp) |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | [C++](../../../LC-cpp/blob/master/source/ReconstructItinerary.cpp) |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [C++](../../../LC-cpp/blob/master/source/CountingBits.cpp) |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [C++](../../../LC-cpp/blob/master/source/TopKFrequentElements.cpp) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [C++](../../../LC-cpp/blob/master/source/IntersectionOf2Array.cpp) |
 | 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/description/) | [C++](../../../LC-cpp/blob/master/source/DesignTwitter.cpp) |
+| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/description/) | [C++](../../../LC-cpp/blob/master/source/WaterAndJugProblem.cpp) |
 | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) | [C++](../../../LC-cpp/blob/master/source/LargestDivisibleSubset.cpp) |
+| 372 | [Super Pow](https://leetcode.com/problems/super-pow/description/) | [C++](../../../LC-cpp/blob/master/source/SuperPow.cpp) |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | [C++](../../../LC-cpp/blob/master/source/FindKPairsWithSmallestSums.cpp) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | <a href="https://github.com/ellinx/LC-cpp/blob/master/source/InsertDeleteGetRandomO(1).cpp">C++</a> |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | <a href="https://github.com/ellinx/LC-cpp/blob/master/source/InsertDeleteGetRandomO(1)Duplicates.cpp">C++</a> |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) | [C++](../../../LC-cpp/blob/master/source/LinkedListRandomNode.cpp) |
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/description/) | [C++](../../../LC-cpp/blob/master/source/MiniParser.cpp) |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | [C++](../../../LC-cpp/blob/master/source/LongestAbsoluteFilePath.cpp) |
-| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [C++](../../../LC-cpp/blob/master/source/IsSubsequence.cpp) |
-| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [C++](../../../LC-cpp/blob/master/source/EliminationGame.cpp) |
+| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [C++](../../../LC-cpp/blob/master/source/EliminationGame.cpp) |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [C++](../../../LC-cpp/blob/master/source/IsSubsequence.cpp) |
+| 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) | [C++](../../../LC-cpp/blob/master/source/UTF-8Validation.cpp) |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [C++](../../../LC-cpp/blob/master/source/DecodeString.cpp) |
 | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) | [C++](../../../LC-cpp/blob/master/source/LongestSubstringWithAtLeastKRepeatingChars.cpp) |
 | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) | [C++](../../../LC-cpp/blob/master/source/IntegerReplacement.cpp) |
@@ -128,17 +154,21 @@
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [C++](../../../LC-cpp/blob/master/source/FindAllDuplicatesInArray.cpp) |
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/description/) | [Python](../../../LC-python/blob/master/SequenceReconstruction.py) |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [C++](../../../LC-cpp/blob/master/source/AddTwoNumbersII.cpp) |
+| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) | [C++](../../../LC-cpp/blob/master/source/SerializeAndDeserializeBST.cpp) |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) | [C++](../../../LC-cpp/blob/master/source/TotalHammingDistance.cpp) |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [C++](../../../LC-cpp/blob/master/source/DeleteNodeInBST.cpp) |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [C++](../../../LC-cpp/blob/master/source/SortCharactersByFrequency.cpp) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | [C++](../../../LC-cpp/blob/master/source/MinimumNumberOfArrowsToBurstBalloons.cpp) |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | [C++](../../../LC-cpp/blob/master/source/MinimumMovesToEqualArrayElements.cpp) |
 | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/description/) | [C++](../../../LC-cpp/blob/master/source/132Pattern.cpp) |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | [Python](../../../LC-python/blob/master/IslandPerimeter.py) |
 | 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/) | [Python](../../../LC-python/blob/master/ValidateIPAddress.py) |
 | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/description/) | [Python](../../../LC-python/blob/master/FindPermutation.py) |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [C++](../../../LC-cpp/blob/master/source/TeemoAttacking.cpp) |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [C++](../../../LC-cpp/blob/master/source/LongestPalindromicSubsequence.cpp) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [C++](../../../LC-cpp/blob/master/source/LongestUncommonSubsequenceI.cpp) |
 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/description/) | [C++](../../../LC-cpp/blob/master/source/FriendCircles.cpp) |
-| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](../../../LC-python/blob/master/src/solutions/ArrayPartitionI.java) |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](../../../LC-java/blob/master/src/solutions/ArrayPartitionI.java) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Python](../../../LC-python/blob/master/PermutationInString.py) |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [C++](../../../LC-cpp/blob/master/source/LongestHarmoniousSubsequence.cpp) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | [Python](../../../LC-python/blob/master/ConstructStringFromBinaryTree.py) |
